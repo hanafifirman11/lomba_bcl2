@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Turnamen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f0f0f0;
+            box-sizing: border-box;
+        }
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 20px;
+            width: 100%;
+            max-width: 1800px;
+            margin: 0 auto;
+        }
+        .tournament {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .tournament h2 {
+            margin: 10px 0;
+        }
+        iframe {
+            width: 100%;
+            height: 700px;
+            border: none;
+        }
+        @media (max-width: 1200px) {
+            .container {
+                grid-template-columns: 1fr;
+            }
+        }
+        @media (max-width: 600px) {
+            iframe {
+                height: 300px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="tournament">
+            <h2>Mini Soccer</h2>
+            <iframe src="https://challonge.com/bcl_minisoccer/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+        </div>
+        <div class="tournament">
+            <h2>Mobile Legend</h2>
+            <iframe src="https://challonge.com/bcl_mobile_legend/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+        </div>
+        <div class="tournament">
+            <h2>Badminton Bapak-bapak</h2>
+            <iframe src="https://challonge.com/bcl2_badminton_bapak/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+        </div>
+        <div class="tournament">
+            <h2>Badminton Ibu-ibu</h2>
+            <iframe src="https://challonge.com/bcl2_badminton_ibuk/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+        </div>
+        <div class="tournament">
+            <h2>Tenis Meja</h2>
+            <iframe src="https://challonge.com/bcl2_tenis_meja/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+        </div>
+        <div class="tournament">
+            <h2>Volleyball Bapak-bapak</h2>
+            <iframe src="https://challonge.com/bcl2_badminton_bapak/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+        </div>
+        <div class="tournament">
+            <h2>Volleyball Ibu-ibu</h2>
+            <iframe src="https://challonge.com/bcl2_badminton_ibuk/module" width="100%" height="500" frameborder="0" scrolling="auto" allowtransparency="true"></iframe>
+        </div>
+    </div>
+</body>
+</html>
