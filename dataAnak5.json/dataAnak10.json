@@ -1,0 +1,2494 @@
+[
+    {
+      "No": 1,
+      "Nama": "Dzakwan",
+      "Alamat": "Q19",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 2,
+      "Nama": "Bagas",
+      "Alamat": "Blok Q no. 9",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 3,
+      "Nama": "Alya alika putri",
+      "Alamat": "L 07",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 4,
+      "Nama": "Nevan",
+      "Alamat": "Blok p 5",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 5,
+      "Nama": "Kalyla Rivda",
+      "Alamat": "N-22",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 6,
+      "Nama": "Abiyan Fawwaz",
+      "Alamat": "A - 2",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 7,
+      "Nama": "Fatih",
+      "Alamat": "G no 29",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 8,
+      "Nama": "Qisya salma wibawa",
+      "Alamat": "N26",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 9,
+      "Nama": "Resti efialaga agustun",
+      "Alamat": "W5",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 10,
+      "Nama": "almira",
+      "Alamat": "V-11",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 11,
+      "Nama": "Bilal",
+      "Alamat": "H12",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 12,
+      "Nama": "Alhamdulillah Azzam",
+      "Alamat": "M 7",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 13,
+      "Nama": "Jizzy afrilla zhafira",
+      "Alamat": "i 3",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 14,
+      "Nama": "M. Arasya",
+      "Alamat": "G23",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 15,
+      "Nama": "Daffa nur Rasya",
+      "Alamat": "N 6",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 16,
+      "Nama": "Alya Alika putri",
+      "Alamat": "L 7",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 17,
+      "Nama": "Ghio",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 18,
+      "Nama": "Ferro",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 19,
+      "Nama": "Cindy Fatika",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 20,
+      "Nama": "Rania Naura",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 21,
+      "Nama": "Bagas",
+      "Alamat": "Q9",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 22,
+      "Nama": "Zahra",
+      "Alamat": "E19",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 23,
+      "Nama": "Gerry",
+      "Alamat": "G28",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 24,
+      "Nama": "Dylan yusuf kautsar",
+      "Alamat": "Blok x no 2",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 25,
+      "Nama": "Chessy",
+      "Alamat": "E 24",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 26,
+      "Nama": "Amaey",
+      "Alamat": "U 9",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 27,
+      "Nama": "Kanazwa",
+      "Alamat": "F no 28",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 28,
+      "Nama": "Ainun",
+      "Alamat": "P-12",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 29,
+      "Nama": "Keyvin",
+      "Alamat": "T nomer 1",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 30,
+      "Nama": "Ahnaf",
+      "Alamat": "P1",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 31,
+      "Nama": "Raka Al zamzami",
+      "Alamat": "L - 4",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 32,
+      "Nama": "Arfa ibrahim",
+      "Alamat": "Blok H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 33,
+      "Nama": "Alesha malca",
+      "Alamat": "H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 34,
+      "Nama": "Naazneen faiha afandi",
+      "Alamat": "Blok T - 22",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 35,
+      "Nama": "Raffasya",
+      "Alamat": "G no 5",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 36,
+      "Nama": "Andra",
+      "Alamat": "E 25",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 37,
+      "Nama": "Syakira",
+      "Alamat": "F 17",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 38,
+      "Nama": "Adrian Pradipta Amzari",
+      "Alamat": "Blok P .25",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 39,
+      "Nama": "M.ALGIF EL FARIZI",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 40,
+      "Nama": "Adelia Zahra Putri",
+      "Alamat": "J no 6",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 41,
+      "Nama": "Lian",
+      "Alamat": "Blok J2",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 42,
+      "Nama": "Alby",
+      "Alamat": "K-9",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Karung"
+    },
+    {
+      "No": 43,
+      "Nama": "Dzakwan",
+      "Alamat": "Q19",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 44,
+      "Nama": "Arsyad",
+      "Alamat": "B31",
+      "RT": "RT 18",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 45,
+      "Nama": "Bagas",
+      "Alamat": "Blok Q no. 9",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 46,
+      "Nama": "Nevan",
+      "Alamat": "Blok p 5",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 47,
+      "Nama": "Kalyla Rivda",
+      "Alamat": "N-22",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 48,
+      "Nama": "Hafizh Rakha Pradipta",
+      "Alamat": "BCL Blok M15",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 49,
+      "Nama": "Abiyan Fawwaz",
+      "Alamat": "A - 2",
+      "RT": "RT 18",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 50,
+      "Nama": "Fatih",
+      "Alamat": "G no 29",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 51,
+      "Nama": "Qisya salma wibawa",
+      "Alamat": "N26",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 52,
+      "Nama": "Resti efialaga agustun",
+      "Alamat": "W5",
+      "RT": "RT 21",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 53,
+      "Nama": "Neng jasmine",
+      "Alamat": "Blok O/21",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 54,
+      "Nama": "Afiqah Maryam Salsabila",
+      "Alamat": "P.28",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 55,
+      "Nama": "Aqila Shidqiyah Almahyra",
+      "Alamat": "P.28",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 56,
+      "Nama": "Bilal",
+      "Alamat": "H12",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 57,
+      "Nama": "Alhamdulillah Azzam",
+      "Alamat": "M 7",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 58,
+      "Nama": "Shanum pramudita khirani",
+      "Alamat": "M - 25",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 59,
+      "Nama": "Jizzy afrilla zhafira",
+      "Alamat": "i 3",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 60,
+      "Nama": "M. Arasya",
+      "Alamat": "G23",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 61,
+      "Nama": "Shakila",
+      "Alamat": "Q 19",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 62,
+      "Nama": "Daffa nur Rasya",
+      "Alamat": "N 6",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 63,
+      "Nama": "Nabila Nur Hafizah",
+      "Alamat": "Blok N 19",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 64,
+      "Nama": "Ghio",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 65,
+      "Nama": "Ferro",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 66,
+      "Nama": "Cindy Fatika",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 67,
+      "Nama": "Rania Naura",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 68,
+      "Nama": "Bagas",
+      "Alamat": "Q9",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 69,
+      "Nama": "Khansa",
+      "Alamat": "Blok G no. 30",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 70,
+      "Nama": "Zahra",
+      "Alamat": "E19",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 71,
+      "Nama": "Gerry",
+      "Alamat": "G28",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 72,
+      "Nama": "Dylan yusuf kautsar",
+      "Alamat": "Blok x no 2",
+      "RT": "RT 21",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 73,
+      "Nama": "Chessy",
+      "Alamat": "E 24",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 74,
+      "Nama": "M. Algif el farizi",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 75,
+      "Nama": "Amaey",
+      "Alamat": "U 9",
+      "RT": "RT 21",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 76,
+      "Nama": "Kanazwa",
+      "Alamat": "F no 28",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 77,
+      "Nama": "Ainun",
+      "Alamat": "P-12",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 78,
+      "Nama": "Hafizh rakha pradipta",
+      "Alamat": "M15",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 79,
+      "Nama": "Ahnaf",
+      "Alamat": "P1",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 80,
+      "Nama": "Raka Al zamzami",
+      "Alamat": "L - 4",
+      "RT": "RT 18",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 81,
+      "Nama": "Hanum",
+      "Alamat": "U 7",
+      "RT": "RT 21",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 82,
+      "Nama": "Naazneen",
+      "Alamat": "T 22",
+      "RT": "RT 21",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 83,
+      "Nama": "Arfa ibrahim",
+      "Alamat": "Blok H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 84,
+      "Nama": "Alesha malca",
+      "Alamat": "H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 85,
+      "Nama": "Mufidah Salsabila",
+      "Alamat": "T 23",
+      "RT": "RT 21",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 86,
+      "Nama": "Naazneen faiha afandi",
+      "Alamat": "Blok T - 22",
+      "RT": "RT 21",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 87,
+      "Nama": "Raffasya",
+      "Alamat": "G no 5",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 88,
+      "Nama": "Ziyad",
+      "Alamat": "Blok V - 21",
+      "RT": "RT 21",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 89,
+      "Nama": "Shawqi ( aa uki )",
+      "Alamat": "Bcl 2 blok H 7",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 90,
+      "Nama": "Andra",
+      "Alamat": "E 25",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 91,
+      "Nama": "Syakira",
+      "Alamat": "F 17",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 92,
+      "Nama": "Syakila",
+      "Alamat": "f 17",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 93,
+      "Nama": "Rafael Firhot Panjaitan",
+      "Alamat": "E 2",
+      "RT": "RT 19",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 94,
+      "Nama": "Adrian Pradipta Amzari",
+      "Alamat": "Blok P .25",
+      "RT": "RT 20",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 95,
+      "Nama": "M.ALGIF EL FARIZI",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 96,
+      "Nama": "Adelia Zahra Putri",
+      "Alamat": "J no 6",
+      "RT": "RT 18",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 97,
+      "Nama": "Lian",
+      "Alamat": "Blok J2",
+      "RT": "RT 18",
+      "JenisLomba": "Lomba Makan Kerupuk"
+    },
+    {
+      "No": 98,
+      "Nama": "Dzakwan",
+      "Alamat": "Q19",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 99,
+      "Nama": "Bagas",
+      "Alamat": "Blok Q no. 9",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 100,
+      "Nama": "Alya alika putri",
+      "Alamat": "L 07",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 101,
+      "Nama": "Nevan",
+      "Alamat": "Blok p 5",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 102,
+      "Nama": "Kalyla Rivda",
+      "Alamat": "N-22",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 103,
+      "Nama": "Hafizh Rakha Pradipta",
+      "Alamat": "BCL Blok M15",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 104,
+      "Nama": "Fatih",
+      "Alamat": "G no 29",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 105,
+      "Nama": "Qisya salma wibawa",
+      "Alamat": "N26",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 106,
+      "Nama": "Resti efialaga agustun",
+      "Alamat": "W5",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 107,
+      "Nama": "Afiqah Maryam Salsabila",
+      "Alamat": "P.28",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 108,
+      "Nama": "Aqila Shidqiyah Almahyra",
+      "Alamat": "P.28",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 109,
+      "Nama": "Bilal",
+      "Alamat": "H12",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 110,
+      "Nama": "Alhamdulillah Azzam",
+      "Alamat": "M 7",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 111,
+      "Nama": "Jizzy afrilla zhafira",
+      "Alamat": "i 3",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 112,
+      "Nama": "M. Arasya",
+      "Alamat": "G23",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 113,
+      "Nama": "Muhammad Yusuf Khairul Azam",
+      "Alamat": "A 14",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 114,
+      "Nama": "Alya Alika putri",
+      "Alamat": "L 7",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 115,
+      "Nama": "Muhamad ramdhan",
+      "Alamat": "S no 3",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 116,
+      "Nama": "Ghio",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 117,
+      "Nama": "Ferro",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 118,
+      "Nama": "Cindy Fatika",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 119,
+      "Nama": "Rania Naura",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 120,
+      "Nama": "Bagas",
+      "Alamat": "Q9",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 121,
+      "Nama": "Rayya",
+      "Alamat": "W30",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 122,
+      "Nama": "Zahra",
+      "Alamat": "E19",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 123,
+      "Nama": "Gerry",
+      "Alamat": "G28",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 124,
+      "Nama": "Chessy",
+      "Alamat": "E 24",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 125,
+      "Nama": "M. Algif el farizi",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 126,
+      "Nama": "Amaey",
+      "Alamat": "U 9",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 127,
+      "Nama": "Kanazwa",
+      "Alamat": "F no 28",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 128,
+      "Nama": "Ainun",
+      "Alamat": "P-12",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 129,
+      "Nama": "Ahnaf",
+      "Alamat": "P1",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 130,
+      "Nama": "Raka Al zamzami",
+      "Alamat": "L - 4",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 131,
+      "Nama": "Hanum",
+      "Alamat": "U 7",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 132,
+      "Nama": "Arfa ibrahim",
+      "Alamat": "Blok H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 133,
+      "Nama": "Alesha malca",
+      "Alamat": "H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 134,
+      "Nama": "Mufidah Salsabila",
+      "Alamat": "T 23",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 135,
+      "Nama": "Naazneen faiha afandi",
+      "Alamat": "Blok T - 22",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 136,
+      "Nama": "Raffasya",
+      "Alamat": "G no 5",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 137,
+      "Nama": "Ziyad",
+      "Alamat": "Blok V - 21",
+      "RT": "RT 21",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 138,
+      "Nama": "Shawqi ( aa uki )",
+      "Alamat": "Bcl 2 blok H 7",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 139,
+      "Nama": "Andra",
+      "Alamat": "E 25",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 140,
+      "Nama": "Syakira",
+      "Alamat": "F 17",
+      "RT": "RT 19",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 141,
+      "Nama": "Adrian Pradipta Amzari",
+      "Alamat": "Blok P .25",
+      "RT": "RT 20",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 142,
+      "Nama": "M.ALGIF EL FARIZI",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 143,
+      "Nama": "Adelia Zahra Putri",
+      "Alamat": "J no 6",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 144,
+      "Nama": "Lian",
+      "Alamat": "Blok J2",
+      "RT": "RT 18",
+      "JenisLomba": "Balap Kelereng pakai masker"
+    },
+    {
+      "No": 145,
+      "Nama": "Dzakwan",
+      "Alamat": "Q19",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 146,
+      "Nama": "Bagas",
+      "Alamat": "Blok Q no. 9",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 147,
+      "Nama": "Alya alika putri",
+      "Alamat": "L 07",
+      "RT": "RT 18",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 148,
+      "Nama": "Nevan",
+      "Alamat": "Blok p 5",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 149,
+      "Nama": "Kalyla Rivda",
+      "Alamat": "N-22",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 150,
+      "Nama": "Hafizh Rakha Pradipta",
+      "Alamat": "BCL Blok M15",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 151,
+      "Nama": "Abiyan Fawwaz",
+      "Alamat": "A - 2",
+      "RT": "RT 18",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 152,
+      "Nama": "Fatih",
+      "Alamat": "G no 29",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 153,
+      "Nama": "Resti efialaga agustun",
+      "Alamat": "W5",
+      "RT": "RT 21",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 154,
+      "Nama": "Afiqah Maryam Salsabila",
+      "Alamat": "P.28",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 155,
+      "Nama": "Aqila Shidqiyah Almahyra",
+      "Alamat": "P.28",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 156,
+      "Nama": "Bilal",
+      "Alamat": "H12",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 157,
+      "Nama": "Alhamdulillah Azzam",
+      "Alamat": "M 7",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 158,
+      "Nama": "Jizzy afrilla zhafira",
+      "Alamat": "i 3",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 159,
+      "Nama": "M. Arasya",
+      "Alamat": "G23",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 160,
+      "Nama": "Shakila",
+      "Alamat": "Q 19",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 161,
+      "Nama": "Daffa nur Rasya",
+      "Alamat": "N 6",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 162,
+      "Nama": "Alya Alika putri",
+      "Alamat": "L 7",
+      "RT": "RT 18",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 163,
+      "Nama": "Azmya Salsabila R",
+      "Alamat": "i-2",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 164,
+      "Nama": "Ghio",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 165,
+      "Nama": "Ferro",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 166,
+      "Nama": "Cindy Fatika",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 167,
+      "Nama": "Rania Naura",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 168,
+      "Nama": "Bagas",
+      "Alamat": "Q9",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 169,
+      "Nama": "Nabila nur maulida",
+      "Alamat": "U 10",
+      "RT": "RT 21",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 170,
+      "Nama": "Zahra",
+      "Alamat": "E19",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 171,
+      "Nama": "Gerry",
+      "Alamat": "G28",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 172,
+      "Nama": "HASNA",
+      "Alamat": "P - 4",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 173,
+      "Nama": "Chessy",
+      "Alamat": "E 24",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 174,
+      "Nama": "M. Algif el farizi",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 175,
+      "Nama": "Amaey",
+      "Alamat": "U 9",
+      "RT": "RT 21",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 176,
+      "Nama": "Kanazwa",
+      "Alamat": "F no 28",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 177,
+      "Nama": "Ainun",
+      "Alamat": "P-12",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 178,
+      "Nama": "Ahnaf",
+      "Alamat": "P1",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 179,
+      "Nama": "Raka Al zamzami",
+      "Alamat": "L - 4",
+      "RT": "RT 18",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 180,
+      "Nama": "Hanum",
+      "Alamat": "U 7",
+      "RT": "RT 21",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 181,
+      "Nama": "Arfa ibrahim",
+      "Alamat": "Blok H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 182,
+      "Nama": "Alesha malca",
+      "Alamat": "H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 183,
+      "Nama": "Mufidah Salsabila",
+      "Alamat": "T 23",
+      "RT": "RT 21",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 184,
+      "Nama": "Naazneen faiha afandi",
+      "Alamat": "Blok T - 22",
+      "RT": "RT 21",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 185,
+      "Nama": "Raffasya",
+      "Alamat": "G no 5",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 186,
+      "Nama": "Ziyad",
+      "Alamat": "Blok V - 21",
+      "RT": "RT 21",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 187,
+      "Nama": "Shawqi ( aa uki )",
+      "Alamat": "Bcl 2 blok H 7",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 188,
+      "Nama": "Andra",
+      "Alamat": "E 25",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 189,
+      "Nama": "Syakira",
+      "Alamat": "F 17",
+      "RT": "RT 19",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 190,
+      "Nama": "Adrian Pradipta Amzari",
+      "Alamat": "Blok P .25",
+      "RT": "RT 20",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 191,
+      "Nama": "M.ALGIF EL FARIZI",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 192,
+      "Nama": "Adelia Zahra Putri",
+      "Alamat": "J no 6",
+      "RT": "RT 18",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 193,
+      "Nama": "Lian",
+      "Alamat": "Blok J2",
+      "RT": "RT 18",
+      "JenisLomba": "Mengeluarkan bola dari dalam kardus"
+    },
+    {
+      "No": 194,
+      "Nama": "Dzakwan",
+      "Alamat": "Q19",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 195,
+      "Nama": "Arsyad",
+      "Alamat": "B31",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 196,
+      "Nama": "Bagas",
+      "Alamat": "Blok Q no. 9",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 197,
+      "Nama": "Alya alika putri",
+      "Alamat": "L 07",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 198,
+      "Nama": "Nevan",
+      "Alamat": "Blok p 5",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 199,
+      "Nama": "Kalyla Rivda",
+      "Alamat": "N-22",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 200,
+      "Nama": "Hafizh Rakha Pradipta",
+      "Alamat": "BCL Blok M15",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 201,
+      "Nama": "Dimas",
+      "Alamat": "A 15",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 202,
+      "Nama": "Abiyan Fawwaz",
+      "Alamat": "A - 2",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 203,
+      "Nama": "Fatih",
+      "Alamat": "G no 29",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 204,
+      "Nama": "Qisya salma wibawa",
+      "Alamat": "N26",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 205,
+      "Nama": "Resti efialaga agustun",
+      "Alamat": "W5",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 206,
+      "Nama": "Neng jasmine",
+      "Alamat": "Blok O/21",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 207,
+      "Nama": "Afiqah Maryam Salsabila",
+      "Alamat": "P.28",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 208,
+      "Nama": "Aqila Shidqiyah Almahyra",
+      "Alamat": "P.28",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 209,
+      "Nama": "almira",
+      "Alamat": "V-11",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 210,
+      "Nama": "Bilal",
+      "Alamat": "H12",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 211,
+      "Nama": "Alhamdulillah Azzam",
+      "Alamat": "M 7",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 212,
+      "Nama": "Jizzy afrilla zhafira",
+      "Alamat": "i 3",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 213,
+      "Nama": "M. Arasya",
+      "Alamat": "G23",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 214,
+      "Nama": "Shakila",
+      "Alamat": "Q 19",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 215,
+      "Nama": "Daffa nur Rasya",
+      "Alamat": "N 6",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 216,
+      "Nama": "Muhammad Yusuf Khairul Azam",
+      "Alamat": "A 14",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 217,
+      "Nama": "Alya Alika putri",
+      "Alamat": "L 7",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 218,
+      "Nama": "Muhamad ramdhan",
+      "Alamat": "S no 3",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 219,
+      "Nama": "Ghio",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 220,
+      "Nama": "Ferro",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 221,
+      "Nama": "Cindy Fatika",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 222,
+      "Nama": "Rania Naura",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 223,
+      "Nama": "Alyan",
+      "Alamat": "I20",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 224,
+      "Nama": "Alyandra",
+      "Alamat": "i-20",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 225,
+      "Nama": "Bagas",
+      "Alamat": "Q9",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 226,
+      "Nama": "Nabila nur maulida",
+      "Alamat": "U 10",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 227,
+      "Nama": "Rayya",
+      "Alamat": "W30",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 228,
+      "Nama": "Zahra",
+      "Alamat": "E19",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 229,
+      "Nama": "Gerry",
+      "Alamat": "G28",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 230,
+      "Nama": "HASNA",
+      "Alamat": "P - 4",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 231,
+      "Nama": "Chessy",
+      "Alamat": "E 24",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 232,
+      "Nama": "M. Algif el farizi",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 233,
+      "Nama": "Amaey",
+      "Alamat": "U 9",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 234,
+      "Nama": "Ainun",
+      "Alamat": "P-12",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 235,
+      "Nama": "Hafizh rakha pradipta",
+      "Alamat": "M15",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 236,
+      "Nama": "Ahnaf",
+      "Alamat": "P1",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 237,
+      "Nama": "Raka Al zamzami",
+      "Alamat": "L - 4",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 238,
+      "Nama": "Hanum",
+      "Alamat": "U 7",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 239,
+      "Nama": "Naazneen",
+      "Alamat": "T 22",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 240,
+      "Nama": "Arfa ibrahim",
+      "Alamat": "Blok H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 241,
+      "Nama": "Alesha malca",
+      "Alamat": "H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 242,
+      "Nama": "Mufidah Salsabila",
+      "Alamat": "T 23",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 243,
+      "Nama": "Naazneen faiha afandi",
+      "Alamat": "Blok T - 22",
+      "RT": "RT 21",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 244,
+      "Nama": "Raffasya",
+      "Alamat": "G no 5",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 245,
+      "Nama": "Andra",
+      "Alamat": "E 25",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 246,
+      "Nama": "Syakira",
+      "Alamat": "F 17",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 247,
+      "Nama": "Rafael Firhot Panjaitan",
+      "Alamat": "E 2",
+      "RT": "RT 19",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 248,
+      "Nama": "Adrian Pradipta Amzari",
+      "Alamat": "Blok P .25",
+      "RT": "RT 20",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 249,
+      "Nama": "M.ALGIF EL FARIZI",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 250,
+      "Nama": "Adelia Zahra Putri",
+      "Alamat": "J no 6",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 251,
+      "Nama": "Lian",
+      "Alamat": "Blok J2",
+      "RT": "RT 18",
+      "JenisLomba": "Memasukan pensil dalam botol"
+    },
+    {
+      "No": 252,
+      "Nama": "Dzakwan",
+      "Alamat": "Q19",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 253,
+      "Nama": "Bagas",
+      "Alamat": "Blok Q no. 9",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 254,
+      "Nama": "Alya alika putri",
+      "Alamat": "L 07",
+      "RT": "RT 18",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 255,
+      "Nama": "Nevan",
+      "Alamat": "Blok p 5",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 256,
+      "Nama": "Kalyla Rivda",
+      "Alamat": "N-22",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 257,
+      "Nama": "Hafizh Rakha Pradipta",
+      "Alamat": "BCL Blok M15",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 258,
+      "Nama": "Abiyan Fawwaz",
+      "Alamat": "A - 2",
+      "RT": "RT 18",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 259,
+      "Nama": "Fatih",
+      "Alamat": "G no 29",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 260,
+      "Nama": "Qisya salma wibawa",
+      "Alamat": "N26",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 261,
+      "Nama": "Resti efialaga agustun",
+      "Alamat": "W5",
+      "RT": "RT 21",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 262,
+      "Nama": "Afiqah Maryam Salsabila",
+      "Alamat": "P.28",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 263,
+      "Nama": "Aqila Shidqiyah Almahyra",
+      "Alamat": "P.28",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 264,
+      "Nama": "Bilal",
+      "Alamat": "H12",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 265,
+      "Nama": "Alhamdulillah Azzam",
+      "Alamat": "M 7",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 266,
+      "Nama": "Jizzy afrilla zhafira",
+      "Alamat": "i 3",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 267,
+      "Nama": "M. Arasya",
+      "Alamat": "G23",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 268,
+      "Nama": "Daffa nur Rasya",
+      "Alamat": "N 6",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 269,
+      "Nama": "Muhammad Yusuf Khairul Azam",
+      "Alamat": "A 14",
+      "RT": "RT 18",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 270,
+      "Nama": "Alya Alika putri",
+      "Alamat": "L 7",
+      "RT": "RT 18",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 271,
+      "Nama": "Azmya Salsabila R",
+      "Alamat": "i-2",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 272,
+      "Nama": "Ghio",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 273,
+      "Nama": "Ferro",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 274,
+      "Nama": "Cindy Fatika",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 275,
+      "Nama": "Rania Naura",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 276,
+      "Nama": "Bagas",
+      "Alamat": "Q9",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 277,
+      "Nama": "Nabila nur maulida",
+      "Alamat": "U 10",
+      "RT": "RT 21",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 278,
+      "Nama": "Rayya",
+      "Alamat": "W30",
+      "RT": "RT 21",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 279,
+      "Nama": "Zahra",
+      "Alamat": "E19",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 280,
+      "Nama": "Gerry",
+      "Alamat": "G28",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 281,
+      "Nama": "HASNA",
+      "Alamat": "P - 4",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 282,
+      "Nama": "Chessy",
+      "Alamat": "E 24",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 283,
+      "Nama": "Amaey",
+      "Alamat": "U 9",
+      "RT": "RT 21",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 284,
+      "Nama": "Kanazwa",
+      "Alamat": "F no 28",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 285,
+      "Nama": "Ainun",
+      "Alamat": "P-12",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 286,
+      "Nama": "Hafizh rakha pradipta",
+      "Alamat": "M15",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 287,
+      "Nama": "Ahnaf",
+      "Alamat": "P1",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 288,
+      "Nama": "Raka Al zamzami",
+      "Alamat": "L - 4",
+      "RT": "RT 18",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 289,
+      "Nama": "Arfa ibrahim",
+      "Alamat": "Blok H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 290,
+      "Nama": "Alesha malca",
+      "Alamat": "H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 291,
+      "Nama": "Mufidah Salsabila",
+      "Alamat": "T 23",
+      "RT": "RT 21",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 292,
+      "Nama": "Naazneen faiha afandi",
+      "Alamat": "Blok T - 22",
+      "RT": "RT 21",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 293,
+      "Nama": "Raffasya",
+      "Alamat": "G no 5",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 294,
+      "Nama": "Keyvin",
+      "Alamat": "T nomer 1",
+      "RT": "RT 21",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 295,
+      "Nama": "Andra",
+      "Alamat": "E 25",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 296,
+      "Nama": "Syakira",
+      "Alamat": "F 17",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 297,
+      "Nama": "Syakila",
+      "Alamat": "f 17",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 298,
+      "Nama": "Rafael Firhot Panjaitan",
+      "Alamat": "E 2",
+      "RT": "RT 19",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 299,
+      "Nama": "Adrian Pradipta Amzari",
+      "Alamat": "Blok P .25",
+      "RT": "RT 20",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 300,
+      "Nama": "M.ALGIF EL FARIZI",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 301,
+      "Nama": "Adelia Zahra Putri",
+      "Alamat": "J no 6",
+      "RT": "RT 18",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 302,
+      "Nama": "Lian",
+      "Alamat": "Blok J2",
+      "RT": "RT 18",
+      "JenisLomba": "Memecahkan Balon di kursi"
+    },
+    {
+      "No": 303,
+      "Nama": "Kalyla Rivda",
+      "Alamat": "N-22",
+      "RT": "RT 19",
+      "JenisLomba": "Fashion Show"
+    },
+    {
+      "No": 304,
+      "Nama": "M. Arasya",
+      "Alamat": "G23",
+      "RT": "RT 19",
+      "JenisLomba": "Fashion Show"
+    },
+    {
+      "No": 305,
+      "Nama": "Nabila Nur Hafizah",
+      "Alamat": "Blok N 19",
+      "RT": "RT 19",
+      "JenisLomba": "Fashion Show"
+    },
+    {
+      "No": 306,
+      "Nama": "Ghio",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Fashion Show"
+    },
+    {
+      "No": 307,
+      "Nama": "Naazneen faiha afandi",
+      "Alamat": "Blok T - 22",
+      "RT": "RT 21",
+      "JenisLomba": "Fashion Show"
+    },
+    {
+      "No": 308,
+      "Nama": "Adelia Zahra Putri",
+      "Alamat": "J no 6",
+      "RT": "RT 18",
+      "JenisLomba": "Fashion Show"
+    },
+    {
+      "No": 309,
+      "Nama": "Arsyad",
+      "Alamat": "B31",
+      "RT": "RT 18",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 310,
+      "Nama": "Nevan",
+      "Alamat": "Blok p 5",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 311,
+      "Nama": "Kalyla Rivda",
+      "Alamat": "N-22",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 312,
+      "Nama": "Hafizh Rakha Pradipta",
+      "Alamat": "BCL Blok M15",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 313,
+      "Nama": "Dimas",
+      "Alamat": "A 15",
+      "RT": "RT 18",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 314,
+      "Nama": "Abiyan Fawwaz",
+      "Alamat": "A - 2",
+      "RT": "RT 18",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 315,
+      "Nama": "Fatih",
+      "Alamat": "G no 29",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 316,
+      "Nama": "Alesha",
+      "Alamat": "Blok W no 25",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 317,
+      "Nama": "Resti efialaga agustun",
+      "Alamat": "W5",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 318,
+      "Nama": "Neng jasmine",
+      "Alamat": "Blok O/21",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 319,
+      "Nama": "almira",
+      "Alamat": "V-11",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 320,
+      "Nama": "Bilal",
+      "Alamat": "H12",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 321,
+      "Nama": "Alhamdulillah Azzam",
+      "Alamat": "M 7",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 322,
+      "Nama": "Jizzy afrilla zhafira",
+      "Alamat": "i 3",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 323,
+      "Nama": "M. Arasya",
+      "Alamat": "G23",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 324,
+      "Nama": "Daffa nur Rasya",
+      "Alamat": "N 6",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 325,
+      "Nama": "Alya Alika putri",
+      "Alamat": "L 7",
+      "RT": "RT 18",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 326,
+      "Nama": "Azmya Salsabila R",
+      "Alamat": "i-2",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 327,
+      "Nama": "Ghio",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 328,
+      "Nama": "Ferro",
+      "Alamat": "W18",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 329,
+      "Nama": "Cindy Fatika",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 330,
+      "Nama": "Rania Naura",
+      "Alamat": "F 25",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 331,
+      "Nama": "Alyandra",
+      "Alamat": "i-20",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 332,
+      "Nama": "Nabila nur maulida",
+      "Alamat": "U 10",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 333,
+      "Nama": "Khansa",
+      "Alamat": "Blok G no. 30",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 334,
+      "Nama": "Zhafran Putra Hanggara",
+      "Alamat": "C 20",
+      "RT": "RT 18",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 335,
+      "Nama": "Sabiqa",
+      "Alamat": "G-27",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 336,
+      "Nama": "HASNA",
+      "Alamat": "P - 4",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 337,
+      "Nama": "Chessy",
+      "Alamat": "E 24",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 338,
+      "Nama": "M. Algif el farizi",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 339,
+      "Nama": "Amaey",
+      "Alamat": "U 9",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 340,
+      "Nama": "Alesha",
+      "Alamat": "Blok W No. 29",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 341,
+      "Nama": "Ainun",
+      "Alamat": "P-12",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 342,
+      "Nama": "Ahnaf",
+      "Alamat": "P1",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 343,
+      "Nama": "Fadhlikal Anam",
+      "Alamat": "P22",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 344,
+      "Nama": "Arfa ibrahim",
+      "Alamat": "Blok H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 345,
+      "Nama": "Alesha malca",
+      "Alamat": "H - 33",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 346,
+      "Nama": "Mufidah Salsabila",
+      "Alamat": "T 23",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 347,
+      "Nama": "Alesha",
+      "Alamat": "Blok W No 25",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 348,
+      "Nama": "Naazneen faiha afandi",
+      "Alamat": "Blok T - 22",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 349,
+      "Nama": "Ziyad",
+      "Alamat": "Blok V - 21",
+      "RT": "RT 21",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 350,
+      "Nama": "Syakira",
+      "Alamat": "F 17",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 351,
+      "Nama": "Syakila",
+      "Alamat": "f 17",
+      "RT": "RT 19",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 352,
+      "Nama": "Adrian Pradipta Amzari",
+      "Alamat": "Blok P .25",
+      "RT": "RT 20",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 353,
+      "Nama": "Daffa Alli Alfarezi",
+      "Alamat": "Blok D15",
+      "RT": "RT 18",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 354,
+      "Nama": "M.ALGIF EL FARIZI",
+      "Alamat": "J10",
+      "RT": "RT 18",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 355,
+      "Nama": "Adelia Zahra Putri",
+      "Alamat": "J no 6",
+      "RT": "RT 18",
+      "JenisLomba": "Sepeda Hias"
+    },
+    {
+      "No": 356,
+      "Nama": "Lian",
+      "Alamat": "Blok J2",
+      "RT": "RT 18",
+      "JenisLomba": "Sepeda Hias"
+    }
+  ]
