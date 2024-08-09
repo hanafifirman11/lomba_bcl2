@@ -254,9 +254,19 @@
         </div>
     </div>
     <div class="tab-pane fade" id="jadwal" role="tabpanel" aria-labelledby="jadwal-tab">
-        <div class="container">
-            <img src="./jadwal-lomba.jpeg" alt="Jadwal Lomba" style="width: 100%; height: auto;">            
+        <!-- Gambar yang bisa di klik -->
+        <img src="./jadwal-lomba.jpeg" alt="Jadwal Lomba" style="width: 100%; height: auto; cursor: pointer;" data-bs-toggle="modal" data-bs-target="#imageModal">
+    </div>
+    
+    <!-- Modal untuk gambar besar -->
+    <div class="modal fade" id="imageModal" tabindex="-1" aria-labelledby="imageModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-body" style="overflow: auto;">
+            <img src="./jadwal-lomba.jpeg" alt="Jadwal Lomba" style="width: 200%; height: auto;">
+          </div>
         </div>
+      </div>
     </div>
 
     <div class="footer">
