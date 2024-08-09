@@ -74,6 +74,15 @@
             bottom: 0;
             left: 0;
         }
+
+        @media print {
+            .footer {
+                display: none;
+            }
+            .button-print {
+                display: none;
+            }
+        }
     
         
     </style>
@@ -120,7 +129,7 @@
                     </select>
                 </div>
 
-                <div class="text-left mt-4">
+                <div class="text-left mt-4 button-print">
                     <button id="printPDF" class="btn btn-primary">Print PDF</button>
                     <button id="exportCSV" class="btn btn-secondary">Export CSV</button>
                     <button id="exportExcel" class="btn btn-success">Export Excel</button>
@@ -160,7 +169,7 @@
                     </select>
                 </div>
 
-                <div class="text-left mt-4">
+                <div class="text-left mt-4 button-print">
                     <button id="printPDF10" class="btn btn-primary">Print PDF</button>
                     <button id="exportCSV10" class="btn btn-secondary">Export CSV</button>
                     <button id="exportExcel10" class="btn btn-success">Export Excel</button>
@@ -203,7 +212,7 @@
                     </select>
                 </div>
 
-                <div class="text-left mt-4">
+                <div class="text-left mt-4 button-print">
                     <button id="printPDFDewasa" class="btn btn-primary">Print PDF</button>
                     <button id="exportCSVDewasa" class="btn btn-secondary">Export CSV</button>
                     <button id="exportExcelDewasa" class="btn btn-success">Export Excel</button>
@@ -259,7 +268,7 @@
     </div>
 
     <div class="tab-pane fade" id="jadwal" role="tabpanel" aria-labelledby="jadwal-tab">
-        <div class="text-left mt-4">
+        <div class="text-left mt-4 button-print">
             <button id="printPDFJadwal" class="btn btn-primary">Print PDF</button>
         </div>
         <!-- Gambar yang bisa di klik -->
